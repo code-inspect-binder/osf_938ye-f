@@ -1,0 +1,8 @@
+Package: repo2dockerProject
+Type: Package
+Title: Executable OSF Environment
+Version: 1.0
+Authors@R: c(person("Maintainer", "Example", email = "maintainer@example.com", role = c("aut", "cre")))
+Description: Automatically generated DESCRIPTION file for Repo2Docker.
+License: See license and authorship information at https://osf.io/938ye/
+Imports: HH, MuMIn, Rmisc, WRS2, afex, arm, boot, car, data.table, fBasics, faraway, ggplot2, gmodels, lattice, lme4, pastecs, reshape2, rstudioapi, sm, tictoc, unknown, 
